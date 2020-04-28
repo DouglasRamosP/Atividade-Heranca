@@ -1,0 +1,7 @@
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\bin\Debug\Ativ5.exe.config
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\bin\Debug\Ativ5.exe
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\bin\Debug\Ativ5.pdb
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\obj\Debug\Ativ5.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\obj\Debug\Ativ5.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\obj\Debug\Ativ5.exe
+C:\Users\Douglas\source\repos\Ativ5\Ativ5\obj\Debug\Ativ5.pdb
